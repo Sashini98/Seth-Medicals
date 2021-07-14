@@ -1,0 +1,226 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+
+header
+{
+
+height: 100vh; 
+
+}
+
+.main-nav
+{
+ float: right;
+ list-style: none;
+  margin-top:20px;
+  padding:0px;
+}
+
+.main-nav li
+{
+display :inline-block
+}
+
+.main-nav li a
+{
+  color: #152C32  ;
+  text-decoration: none;
+  padding: 25px;
+  font-family: "Roboto",sans-serif;
+  font-size: 17px;
+  font-weight:bold;
+}
+
+.main-nav li.active a
+{  
+border: 2px solid #27A2B4;
+color: #18A292   ;
+}
+
+.main-nav li a:hover
+{
+border:2px solid #27A2B4;
+}
+
+.i img
+{
+width:210;
+height:250;
+padding:30px 75px;
+float:left;
+}
+
+
+body 
+{
+	background-image:url(../background.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 700px;
+}
+.form
+{
+text-align:center;
+margin:100px 350px;
+}
+#book
+{ 
+	width:50%;
+	background-color:#051010;
+	opacity:0.7;
+	padding:50px 0px;
+	border-radius:20px;
+	
+}
+#status
+{
+	width:70px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+}
+
+#cancel
+{ 
+	width:50%;
+	background-color:#051010;
+	opacity:0.7;
+	padding:50px 0px;
+	border-radius:20px;
+	
+}
+
+#fname
+{
+	width:180px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+
+}
+
+#lname
+{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+
+}
+#doctor
+{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+
+}
+#phone
+{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+
+}
+
+#appoinment
+{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+
+}
+#date
+{
+	width:80px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+}
+
+#month
+{   
+	width:80px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+	}
+	
+#year
+{
+	width:80px;
+	padding:10px;
+	border-radius:5px;
+	outline:10px;
+}	
+#submit
+{
+	width:200px;
+	padding:20px;
+	border-radius:10px;
+	outline:0px;
+	background-color:#0c6996;
+	font-size:18px;
+}
+
+.dropbtn {
+    background-color: Transparent;
+    color:#152C32;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+ font-weight:bold;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: Transparent;
+border: 2px solid #27A2B4;
+}
+</style>
+</head>
+<body>
+
+<h2>Dropdown Menu</h2>
+<p>Move the mouse over the button to open the dropdown menu.</p>
+
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+
