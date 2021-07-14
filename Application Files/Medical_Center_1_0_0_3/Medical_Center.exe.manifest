@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Medical_Center.exe" version="1.0.0.3" publicKeyToken="6c6dd2c4984c53b9" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Medical_Center" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Medical_Center.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu_UI_v1.5.3.dll" size="242176">
+      <assemblyIdentity name="Bunifu_UI_v1.5.3" version="1.5.3.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8bPg8nUKkQPkampKNPHPnRd3lyX5gELMJHXsZkhIAc8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Medical_Center.exe" size="2469376">
+      <assemblyIdentity name="Medical_Center" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gElHDZHLxKnKTzHxvfP8HNIlv0dZ+imCcED/Ps428vc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Medical.mdb" size="495616">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>iwnxKekgQkVT4x4mZnMLDw8ef09I2wqhtQnrTdpjHD4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Medical_Center.exe.config" size="517">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0qx3w/otjiGN0YHNKHjEMqfbk+LZ5k97AO0E9RYsJU0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=7REX\Kasun Bandara" issuerKeyHash="04cf69baee1e121dccae8108526ceffb5b450845" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dJ8EIPF38wt50ldkUP3LoY2LNMiwoaRTwl+ngY3CQkM=</DigestValue></Reference></SignedInfo><SignatureValue>jEDeTfYAMWa7d/bESCmYJt83U2jnHGPGrECl75Md7dT/Ae5HIzd3h/ABW4Rb8G/5E/TPR7ief914jdo4xoboQ4r0wzB/rd6B3rO7FpwbS+8coTl08sP3TL+ZIbHqdU4p+ueNjU61eP7aWklrbcX2dPX+rA7UNLkwkZfGCz4DJBw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3f3rhhhKc39o6D4Vazu84f4FPRgQj5MyHxShDw41TOFzZdpuSjT29Wrk3LoioqoJws0p6ZFL/WQHXxU2NpAAVR3ryj1RpfsVGY+gvGfzCN7PnaZKERVas7OQKq+5fBxR+rvX0IsXv2B3NqD9owlvUen2Adxqv8XLZgn8naIgJEk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4342c28d81a75fc253a4a1b0c8348b8da1cbfd506457d2790bf377f120049f74" Description="" Url=""><as:assemblyIdentity name="Medical_Center.exe" version="1.0.0.3" publicKeyToken="6c6dd2c4984c53b9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=7REX\Kasun Bandara</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>S94QFqvauKCCa0KgfrKG4u6K99vXBtVITJP21Nd2cNg=</DigestValue></Reference></SignedInfo><SignatureValue>2mUoMW+HnkR2OfSjUN2nNOYwlJqi34yo8iQ2gyV6WRCbq6kO6Hc47iGgU3co/8K9cUEUuAJ7vyfAFXN45HztdGlPhy+eK5VUIvwunmEv1OWcy283PLoriVFNs6oENf2NGWy2JQMCbYvxB9PFZvvQ+Hkzz8ba2vdjCsIPipofeZw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3f3rhhhKc39o6D4Vazu84f4FPRgQj5MyHxShDw41TOFzZdpuSjT29Wrk3LoioqoJws0p6ZFL/WQHXxU2NpAAVR3ryj1RpfsVGY+gvGfzCN7PnaZKERVas7OQKq+5fBxR+rvX0IsXv2B3NqD9owlvUen2Adxqv8XLZgn8naIgJEk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQRd+xf8rVj4ZFejrHUK6W2jANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQANwBSAEUAWABcAEsAYQBzAHUAbgAgAEIAYQBuAGQAYQByAGEwHhcNMTgxMjEzMDQyMzUxWhcNMTkxMjEzMTAyMzUxWjAvMS0wKwYDVQQDHiQANwBSAEUAWABcAEsAYQBzAHUAbgAgAEIAYQBuAGQAYQByAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAN3964YYSnN/aOg+FWs7vOH+BT0YEI+TMh8UoQ8ONUzhc2Xabko09vVq5Ny6IqKqCcLNKemRS/1kB18VNjaQAFUd68o9UaX7FRmPoLxn8wjez52mShEVWrOzkCqvuXwcUfq719CLF79gdzag/aMJb1Hp9gHcar/Fy2YJ/J2iICRJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAKTHqesIFMGFZhczJZqvXzCd8ZeodeSbF8PkUaKNVTxCPjoLLtoTnEOwawqpxm5G7yvTrwmhATAyyhmSTF8yd6+S0SoA4xkJIOeys8SmodGwSTerlk6ggBLUoPS9svV/heO2KEwP4FILTJTBVbVwN1BIKsmmXWXsKHMwnkmzw05c=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
