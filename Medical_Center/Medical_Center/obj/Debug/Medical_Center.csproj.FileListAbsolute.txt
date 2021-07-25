@@ -1,0 +1,41 @@
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\bin\Debug\Medical_Center.exe.config
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\bin\Debug\Medical_Center.exe
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\bin\Debug\Medical_Center.pdb
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.csprojResolveAssemblyReference.cache
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Properties.Resources.resources
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.csproj.GenerateResource.Cache
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.exe
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.pdb
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\bin\Debug\Medical.mdb
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Form3.resources
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Front.resources
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Select.resources
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.pharmacy.resources
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Stock.resources
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\bin\Debug\Medical_Center.exe.manifest
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\bin\Debug\Medical_Center.application
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.exe.manifest
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.application
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Channel_Bill.resources
+C:\Users\kasun\Desktop\final project\Medical_Center\Medical_Center\obj\Debug\Medical_Center.pharmacy_bill.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\bin\Debug\Medical_Center.exe.config
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.exe
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.pdb
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\bin\Debug\Medical.mdb
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\bin\Debug\Medical_Center.exe.manifest
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\bin\Debug\Medical_Center.application
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\bin\Debug\Medical_Center.exe
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\bin\Debug\Medical_Center.pdb
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.csprojResolveAssemblyReference.cache
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Channel_Bill.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Front.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.pharmacy_bill.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Select.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Form3.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.pharmacy.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Stock.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.Properties.Resources.resources
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.csproj.GenerateResource.Cache
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.exe.manifest
+C:\Users\kasun\Desktop\final project\Medical Center\Medical_Center\Medical_Center\obj\Debug\Medical_Center.application
